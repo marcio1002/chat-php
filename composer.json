@@ -1,0 +1,19 @@
+{
+    "name": "marcio-zorion/react_chat",
+    "autoload": {
+        "psr-4": {
+            "ReactChat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "marcio1002",
+            "email": "marcio.alemao@klupp.tech"
+        }
+    ],
+    "require": {
+        "react/socket": "^1.11",
+        "react/stream": "^1.2",
+        "kevinlebrun/colors.php": "^1.0"
+    }
+}
